@@ -1,7 +1,7 @@
 <?php
-function tambah($a, $b) {
-    return $a + $b;
-}
+    function tambah($a, $b) {
+        return $a + $b;
+    }
 
-echo "Hasil Penjumlahan: " . tambah(5, 3);
+    echo "Hasil Penjumlahan: " . tambah(5, 3);
 ?>
